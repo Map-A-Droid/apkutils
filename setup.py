@@ -8,17 +8,16 @@ def read(fname):
 
 
 setup(
-    name="apkutils",
+    name="apkutils-mad",
 
-    version='0.8.2',
+    version='0.0.1',
 
     description=("Utils for parsing apk."),
     long_description=read('README.rst'),
 
-    url="https://github.com/mikusjelly/apkutils",
+    url="https://github.com/map-a-droid/apkutils",
 
-    author="mikusjelly",
-    author_email="mikusjelly@gmail.com",
+    author="map-a-droid dev team",
 
     license="MIT",
     classifiers=[
